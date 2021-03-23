@@ -3,7 +3,7 @@
 Application Web de Gestion de Paie
 
 Application de generation de bulletin de paie pour n'importe quel type de salarié 
-avec tous les détails gains retenues 
+avec tous les détails gains retenues suivant la loi definance 2020
 
 
 
